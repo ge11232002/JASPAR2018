@@ -35,7 +35,7 @@
 
     opts2 <- list()
     opts2[["type"]] <- "SELEX"
-    PFMatrixList2 <- getMatrixSet(JASPAR201, opts2)
+    PFMatrixList2 <- getMatrixSet(JASPAR2018, opts2)
   }
 }
 \keyword{classes}
