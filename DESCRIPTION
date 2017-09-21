@@ -1,0 +1,15 @@
+Package: JASPAR2018
+Version: 0.9.0
+Date: 2017-09-15
+Title: Data package for JASPAR 2018
+Description: Data package for JASPAR 2018. To search this databases, 
+             please use the package TFBSTools (>= 1.15.6).
+Author: Ge Tan <ge_tan@live.com>
+Maintainer: Ge Tan <ge_tan@live.com>
+Depends: R (>= 3.4.0), methods
+License: GPL-2
+URL: http://jaspar.genereg.net/
+Type: Package
+biocViews: ExperimentData, MotifAnnotation, GeneRegulation
+NeedsCompilation: no
+LazyData: no
