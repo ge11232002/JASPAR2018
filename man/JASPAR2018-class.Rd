@@ -21,12 +21,7 @@
 }
 
 \examples{
-  \dontrun{
-    library(JASPAR2018)
-    JASPAR2018
-
     library(TFBSTools)
-
     opts <- list()
     opts[["species"]] <- 9606
     opts[["type"]] <- "SELEX"
@@ -36,6 +31,5 @@
     opts2 <- list()
     opts2[["type"]] <- "SELEX"
     PFMatrixList2 <- getMatrixSet(JASPAR2018, opts2)
-  }
 }
 \keyword{classes}

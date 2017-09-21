@@ -33,8 +33,6 @@ Maintainer: Ge Tan <ge_tan@live.com>
 }
 \keyword{ package }
 \examples{
-## load the library
-library(JASPAR2018)
 ## list the contents that are loaded into memory
 ls("package:JASPAR2018")
 }

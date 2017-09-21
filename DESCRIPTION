@@ -7,9 +7,10 @@ Description: Data package for JASPAR 2018. To search this databases,
 Author: Ge Tan <ge_tan@live.com>
 Maintainer: Ge Tan <ge_tan@live.com>
 Depends: R (>= 3.4.0), methods
+Suggests: TFBSTools (>= 1.15.6)
 License: GPL-2
 URL: http://jaspar.genereg.net/
 Type: Package
-biocViews: ExperimentData, MotifAnnotation, GeneRegulation
+biocViews: AnnotationData
 NeedsCompilation: no
 LazyData: no
