@@ -1,6 +1,6 @@
 Package: JASPAR2018
-Version: 1.1.0
-Date: 2017-10-16
+Version: 1.1.1
+Date: 2017-11-09
 Title: Data package for JASPAR 2018
 Description: Data package for JASPAR 2018. To search this databases, 
              please use the package TFBSTools (>= 1.15.6).
